@@ -1,2 +1,2 @@
 # Pre-Bootcamp
-coding-dojo
+Hello world!
